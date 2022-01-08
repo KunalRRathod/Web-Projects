@@ -1,2 +1,2 @@
 # Ignore VsCode system files
-.vscode
+/vscode
